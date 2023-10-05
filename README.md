@@ -1,16 +1,16 @@
-# Elysia with Bun runtime
+# Backend Limpo com elysia
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
+## Começando
+No terminal linux, WSL ou MAC OS digite para criar um novo projeto:
 ```bash
-bun create elysia ./elysia-example
+bun create elysia ./exemple-app
 ```
 
-## Development
-To start the development server run:
+## Desenvolvimento
+Para iniciar o servidor de desenvolvimento, execute:
 ```bash
 bun run dev
 ```
 
-Open http://localhost:3000/ with your browser to see the result.
+Abrir http://localhost:3000/ com seu navegador para ver o resultado.
 
